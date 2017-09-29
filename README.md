@@ -17,3 +17,5 @@ yarn start
 
 ## Idea behind the example
 Almost 100% of the code is taken from the [official Redux universal example](https://github.com/reactjs/redux/tree/master/examples/universal).
+# bonsai-app
+An App for your Bonsai
